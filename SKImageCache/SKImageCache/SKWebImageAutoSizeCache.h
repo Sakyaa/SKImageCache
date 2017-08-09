@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "SKWebImageUtilities.h"
 
 typedef void(^SKWebImageAutoSizeCacheCompletionBlock)(BOOL result);
 

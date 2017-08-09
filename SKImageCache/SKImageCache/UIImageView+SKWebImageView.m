@@ -41,7 +41,7 @@
         __strong __typeof (wself) sself = wself;
         sself.image = image;
         NSURL *url = [NSURL URLWithString:@"urlString"];
-        completedBlock(image,url);
+        if (completedBlock) completedBlock(image,url);
     }];
 }
 

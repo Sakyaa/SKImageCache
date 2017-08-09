@@ -7,6 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "SKWebImageUtilities.h"
+
 #import "SKWebImageAutoSizeCache.h"
 
 

@@ -75,6 +75,8 @@
 		364640631F3B344F00CE74FC /* SKWebImageAutoSize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKWebImageAutoSize.m; sourceTree = "<group>"; };
 		364640641F3B344F00CE74FC /* SKWebImageAutoSizeCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKWebImageAutoSizeCache.h; sourceTree = "<group>"; };
 		364640651F3B344F00CE74FC /* SKWebImageAutoSizeCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKWebImageAutoSizeCache.m; sourceTree = "<group>"; };
+		364640681F3B370400CE74FC /* SKWebImage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SKWebImage.h; sourceTree = "<group>"; };
+		364640691F3B383500CE74FC /* SKWebImageUtilities.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SKWebImageUtilities.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -170,6 +172,8 @@
 		364640521F3B33B200CE74FC /* SKImageCache */ = {
 			isa = PBXGroup;
 			children = (
+				364640681F3B370400CE74FC /* SKWebImage.h */,
+				364640691F3B383500CE74FC /* SKWebImageUtilities.h */,
 				364640621F3B344F00CE74FC /* SKWebImageAutoSize.h */,
 				364640631F3B344F00CE74FC /* SKWebImageAutoSize.m */,
 				364640641F3B344F00CE74FC /* SKWebImageAutoSizeCache.h */,
