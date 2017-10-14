@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6EB0B9F4EBC674975B23DBD3924B448DCBE782A5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6EB0B9F4EBC674975B23DBD3924B448DCBE782A5" : 9223372036854775807,
+    "4DBC3840A3AF450EE874FD0C956297E23C25C3BA" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4A5646CC-300A-4CE0-99A0-A60A3C5E5310",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6EB0B9F4EBC674975B23DBD3924B448DCBE782A5" : "SKWebImage\/",
+    "4DBC3840A3AF450EE874FD0C956297E23C25C3BA" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SKImageCache",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SKImageCache.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Sakyaa\/SKUtils.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4DBC3840A3AF450EE874FD0C956297E23C25C3BA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Sakyaa\/SKImageCache.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6EB0B9F4EBC674975B23DBD3924B448DCBE782A5"
+    }
+  ]
+}
